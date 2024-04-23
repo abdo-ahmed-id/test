@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215236670686",
+    "project_id": "secretvistor",
+    "storage_bucket": "secretvistor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215236670686:android:d4d9448ccea3d041fffe4f",
+        "android_client_info": {
+          "package_name": "com.example.test_cli2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX2hsWfDP-gnu69dwxiquYGyJSQaLAxls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
